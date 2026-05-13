@@ -13,14 +13,18 @@
 - [x] Forecast Final Cost (EAC) — £18,719,000
 - [x] Variance formulas — £-404,000 overspend
 - [x] % Complete — weighted SUMPRODUCT formulas on element headers, 72% overall
-- [ ] Conditional formatting — variance RAG
-- [ ] Row grouping — collapse/expand elements
+- [x] Conditional formatting — variance RAG
+- [x] Row grouping — collapse/expand elements
+- [x] Dynamic report date — TODAY() formula
 
 ### CVR Tab
-- [ ] Monthly value vs cost table
-- [ ] Gross margin calculation
-- [ ] CPI trend
-- [ ] Running EAC
+- [x] Monthly value vs cost table (April–September 2024)
+- [x] Gross margin calculation
+- [x] CPI trend — 1.04 deteriorating to 0.97
+- [x] Running EAC — £18.9M at September 2024
+- [x] Cumulative value vs cost line chart
+- [x] RAG conditional formatting on gross margin column
+- [x] Professional formatting — matching cost plan header style
 
 ### Project Info Tab
 - [x] Basic project details
@@ -30,6 +34,10 @@
 - [ ] Government Office Refurbishment (£7.5M)
 - [ ] Primary School Expansion (£4.2M)
 - [ ] Data Centre Shell & Core (£22M)
+
+## Documentation
+- [x] PROGRESS.md
+- [x] Project Build Guide PDF
 
 ## SQL
 - [ ] Database and tables
@@ -44,5 +52,5 @@
 
 ## README
 - [ ] Project overview
-- [ ] Architecture diagram
+- [ ] Architecture explanation
 - [ ] How to run
