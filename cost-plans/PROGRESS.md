@@ -30,7 +30,7 @@
 - [x] Basic project details
 
 ## Remaining Projects
-- [ ] Urban Highway Improvement Scheme (£32M)
+- [x] Urban Highway Improvement Scheme (£32M)
 - [ ] Government Office Refurbishment (£7.5M)
 - [ ] Primary School Expansion (£4.2M)
 - [ ] Data Centre Shell & Core (£22M)
