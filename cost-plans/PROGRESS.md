@@ -148,10 +148,10 @@
 ---
 
 ## SQL
-- [ ] Database and tables
-- [ ] Portfolio summary view
-- [ ] Elemental drill-through view
-- [ ] Python load script
+- [x] Database and tables
+- [x] Portfolio summary view
+- [x] Elemental drill-through view
+- [x] Python load script
 
 ## Power BI
 - [ ] Page 1 — Portfolio overview
