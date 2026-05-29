@@ -154,9 +154,9 @@
 - [x] Python load script
 
 ## Power BI
-- [ ] Page 1 — Portfolio overview
-- [ ] Page 2 — Project drill-through
-- [ ] Page 3 — ONS benchmarking
+- [x] Page 1 — Portfolio overview
+- [x] Page 2 — Project drill-through
+- [x] Page 3 — ONS benchmarking
 - [ ] Page 4 — Executive summary
 
 ## README
