@@ -82,7 +82,7 @@ Excel Workbooks (per project)
 ↓
 Python (openpyxl + pyodbc)
 ↓
-SQL Server Express (RetailDW)
+SQL Server Express (CostControl)
 ↓
 Power BI Desktop
 
