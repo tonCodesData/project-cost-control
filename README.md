@@ -138,7 +138,7 @@ PROGRESS.md     — Build log
 ### Steps
 1. Clone the repository
 2. Open Excel workbooks in cost-plans/ to review project data
-3. Run data_generation/load_to_sql.py to load data into SQL Server
+3. Open and run load_to_sql.ipynb (Jupyter notebook) to load the cost plans into SQL Server
 4. Open reports/dashboard.pbix in Power BI Desktop
 5. Refresh data source if prompted
 
