@@ -36,6 +36,22 @@ Mace, and Faithful+Gould:
 
 ---
 
+## Dashboard
+
+Portfolio overview — KPI cards and project-level position across all five projects:
+
+![Power BI portfolio overview page](screenshots/portfolio-overview.png)
+
+Project drill-down — cost plan detail and CVR trend for a single project:
+
+![Power BI project drill-down page](screenshots/project-drilldown.png)
+
+Executive summary — headline position for client and board reporting:
+
+![Power BI executive summary page](screenshots/executive-summary.png)
+
+---
+
 ## Portfolio Analysis
 
 ### Overall Position
@@ -122,6 +138,7 @@ Each project workbook contains three sheets:
 cost-plans/     — Five Excel workbooks, one per project
 reports/        — Power BI dashboard (.pbix)
 data/           — ONS Construction Output Price Index data
+screenshots/    — Dashboard page images
 README.md       — This file
 PROGRESS.md     — Build log
 
